@@ -5,11 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "clerk-sdk-python>=0.1.0",
+    "clerk-backend-api>=3.0.3",
     "fastapi>=0.115.13",
     "openai>=1.90.0",
     "python-dotenv>=1.1.0",
     "sqlalchemy>=2.0.41",
     "uvicorn>=0.34.3",
 ]
-Secure AI App with Auth
